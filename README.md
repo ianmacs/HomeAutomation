@@ -1,1 +1,3 @@
 # HomeAutomation
+
+See wiki.
